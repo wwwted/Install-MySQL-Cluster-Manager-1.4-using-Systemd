@@ -33,7 +33,7 @@ Structure should be:
  Folder mcmN.N.N contains installed version of MCM.
 ```
 
-### Systemd configuraton
+### Systemd configuration
 
 ##### Create user to run the MCM service:
 ```
