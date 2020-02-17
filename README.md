@@ -2,7 +2,7 @@
 
 For more information on how to create a service look at ```man systemd.service```
 
-### 1 Install
+### Install
 
 Directory for MCM installation is /opt
 Download latest tar package of MCM from edelivery.oracle.com or support.oracle.com
