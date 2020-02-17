@@ -72,6 +72,5 @@ sudo systemctl start mcm
 sudo systemctl enable mcm
 sudo systemctl status mcm
 ```
-If the service is not started correctly, look in messages file:
-sudo tail -150f /var/log/messages
+If the service is not started correctly, look in messages file: ```sudo tail -150f /var/log/messages```
 
