@@ -26,7 +26,7 @@ Structure should be:
 ```
  /opt/mcm
          mcmd.ini
-         mcm1.4.7
+         mcm1.4.8
          mcm_data
 
  Folder mcm_data is where all data on disk will be stored by default.
