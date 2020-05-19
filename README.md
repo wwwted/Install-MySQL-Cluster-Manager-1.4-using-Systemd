@@ -73,5 +73,6 @@ sudo systemctl enable mcm
 sudo systemctl status mcm
 ```
 If the service is not started correctly, look in messages file: ```sudo tail -150f /var/log/messages```
+
 Remember also to set option StopOnError to 0 when creating your cluster so mcmd can restart failed data nodes ```set StopOnError:ndbmtd=0 mycluster;```.
 
