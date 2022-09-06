@@ -1,4 +1,4 @@
-# Install MySQL Cluster Manager "MCM" using Systemd
+# Install MySQL Cluster Manager 1.4 "MCM" using Systemd
 
 For more information on how to create a service look at ```man systemd.service```
 
